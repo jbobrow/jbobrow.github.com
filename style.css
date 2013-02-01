@@ -1,0 +1,26 @@
+body {
+	background-repeat: repeat;
+	background-image: url(grid.jpg);
+}
+
+a {
+	text-decoration: none;
+	color: #999999;
+}
+
+h3 {
+	font-family: sans-serif;
+	color: #666666;
+}
+img {
+	margin-top: 100px;
+}
+
+#construction {
+	font-family: sans-serif;
+	color: #666666;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	width: 450px;
+}
